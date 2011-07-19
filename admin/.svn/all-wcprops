@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/408646/dd-simple-photo-gallery/trunk/admin
+END
+dd_spg_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/410074/dd-simple-photo-gallery/trunk/admin/dd_spg_settings.php
+END
+dd_spg_manage_photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/410542/dd-simple-photo-gallery/trunk/admin/dd_spg_manage_photo.php
+END
+dd_spg_manage_gallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/410074/dd-simple-photo-gallery/trunk/admin/dd_spg_manage_gallery.php
+END
+dd_spg_admin_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/408658/dd-simple-photo-gallery/trunk/admin/dd_spg_admin_settings.php
+END
